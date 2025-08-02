@@ -15,10 +15,10 @@
 
 **kyrox-tech**
 
-[![XTREME XMD SESSION](https://img.shields.io/badge/XTREME%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com)
+[![Kyrox2.0 SESSION](https://img.shields.io/badge/XTREME%20-XMD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-v2-session.onrender.com)
 ---
 
-🧠 **ғᴇᴀᴛᴜʀᴇs**
+🧠 **Kyrox-tech**
 
 - 🔁 ᴀᴜᴛᴏ ʀᴇsᴛᴀʀᴛ & ʙᴀɪʟᴇʏs ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ sᴜᴘᴘᴏʀᴛ  
 - 🔌 ᴅʏɴᴀᴍɪᴄ ᴘʟᴜɢɪɴ ʟᴏᴀᴅᴇʀ  
@@ -28,7 +28,7 @@
 
 ---
 
-🚀 **ᴏɴᴇ-ᴄʟɪᴄᴋ ᴅᴇᴘʟᴏʏ ᴏᴘᴛɪᴏɴs**
+🚀 **powered by kyrox-tech**
 
 ⚡ ᴏᴘᴛɪʟɪɴᴋ
 [![Deploy with Optilink](https://img.shields.io/badge/Deploy%20Now-OptiLink-2ecc71?style=for-the-badge)]([https://optiklink.com/home])
