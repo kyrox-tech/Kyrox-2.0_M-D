@@ -124,5 +124,5 @@ node .
 
 ---
 
-*©️ 2025 – xkyrox-tech👺*
+*©️ 2025 – kyrox-tech👺*
 
