@@ -1,5 +1,5 @@
 {
-  "name": "Kyrox 2.0",
+  "name": "Kyrox 2.0👺",
   "description": "Bot WhatsApp ultra puissant ",
   "logo": "https://i.postimg.cc/jSY1Y03n/Screenshot-20230531-215658.png",
   "keywords": ["bot"],
@@ -14,7 +14,7 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "https://i.postimg.cc/jSY1Y03n/Screenshot-20230531-215658.png",
       "required": true,
       "value": "https://i.postimg.cc/jSY1Y03n/Screenshot-20230531-215658.png"
     }, 
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦ Kyrox 2.0 ✦"
+      "value": "✦ Kyrox 2.0👺✦"
     }, 
 
     "HEART_REACT": {
