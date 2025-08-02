@@ -1,6 +1,6 @@
-name: haiko-xmd-3
+name: kyrox 2.0👺
 services:
-  - name: megalodon-md-service
+  - name: Kyrox 2.0 service 
     type: web
     ports:
       - 5000
